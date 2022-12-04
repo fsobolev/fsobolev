@@ -11,5 +11,5 @@ I'm Fyodor. I've been using 🐧GNU/Linux since 2012, but now, 10 years later, I
 I'm learning **Python**🐍
 
 ### My apps
-* **[Time Switch](https://github.com/fsobolev/timeswitch)** ⏲️ — power off, reboot, suspend or send a notification on timer.
-* More soon...
+* **[Time Switch](https://github.com/fsobolev/timeswitch)** ⏲️ — power off, reboot, suspend, send a notification or execute any command on timer.
+* **[Cavalier](https://github.com/fsobolev/cavalier)** 🎵 — audio visualizer based on CAVA.
