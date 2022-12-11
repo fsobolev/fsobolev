@@ -8,7 +8,7 @@ I'm Fyodor. I've been using 🐧GNU/Linux since 2012, but now, 10 years later, I
 \
 **PC specs**: AMD A6-6400K with integrated Radeon 8470D, 4Gb RAM, 120Gb SSD (yeah, potato computer, LOL)
 \
-I'm learning **Python**🐍
+I'm learning **Python** 🐍 and **C**\# 💜
 
 ### My apps
 * **[Time Switch](https://github.com/fsobolev/timeswitch)** ⏲️ — power off, reboot, suspend, send a notification or execute any command on timer.
