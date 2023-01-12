@@ -21,4 +21,6 @@ I'm learning **Python** 🐍 and **C**\# 💜
 ### Major contributions
 * **[Denaro](https://github.com/nlogozzo/NickvisionMoney)** 💰 — personal finance manager.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fsobolev&column=-1&theme=dark_lover&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fsobolev&column=-1&theme=nord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
