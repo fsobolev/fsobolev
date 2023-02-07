@@ -23,4 +23,4 @@ I'm learning **Python** 🐍 and **C**\# 💜
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fsobolev&column=-1&theme=nord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fsobolev&column=-1&theme=nord&no-frame=true&rank=-SECRET)](https://github.com/ryo-ma/github-profile-trophy)
