@@ -2,7 +2,7 @@
 
 I'm Fyodor. I've been using 🐧GNU/Linux since 2012, but now, 10 years later, I managed to find time and opportunity to create software myself and contribute to other FLOSS projects. So here I am! 😊 I'm newbie in coding, so please expect my code to be shitty sometimes. But ofc I'm constantly learning 😀
 
-**OS**: openSUSE MicroOS Desktop
+**OS**: Fedora Silverblue ([uBlue base](https://github.com/ublue-os/base))
 \
 **DE**: GNOME
 \
@@ -14,12 +14,13 @@ I'm learning **Python** 🐍 and **C**\# 💜
 
 ### My apps
 * **[Time Switch](https://github.com/fsobolev/timeswitch)** ⏲️ — power off, reboot, suspend, send a notification or execute any command on timer.
-* **[Cavalier](https://github.com/fsobolev/cavalier)** 🎵 — audio visualizer based on CAVA.
+* **[Cavalier](https://github.com/fsobolev/cavalier)** 🎵 — an audio visualizer based on CAVA.
 
 [<img src="https://camo.githubusercontent.com/874898488d74b24f916891c19c132f4bae397ab1de4898cd25d268ec81c7d92b/68747470733a2f2f692e696d6775722e636f6d2f3049746a6f374e2e706e67" width=128px>](https://matrix.to/#/#sable-burrow:matrix.org)
 
 ### Major contributions
-* **[Denaro](https://github.com/nlogozzo/NickvisionMoney)** 💰 — personal finance manager.
+* **[Denaro](https://github.com/nlogozzo/NickvisionMoney)** 💰 — a personal finance manager.
+* **[Tube Converter](https://github.com/nlogozzo/NickvisionTubeConverter)** 📡 — an easy-to-use video downloader.
 
 ---
 
