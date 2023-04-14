@@ -1,8 +1,10 @@
 ## Hello there! 🧔🏻
 
-I'm Fyodor. I've been using 🐧GNU/Linux since 2012, but now, 10 years later, I managed to find time and opportunity to create software myself and contribute to other FLOSS projects. So here I am! 😊 I'm newbie in coding, so please expect my code to be shitty sometimes. But ofc I'm constantly learning 😀
+I'm Fyodor, a hobbyist programmer from Russia.
+\
+🐧Using GNU/Linux since 2012. 🔨Coding since 2022.
 
-**OS**: Fedora Silverblue ([uBlue base](https://github.com/ublue-os/base))
+**OS**: Fedora Silverblue ([Ushanka](https://github.com/fsobolev/ushanka))
 \
 **DE**: GNOME
 \
@@ -10,7 +12,6 @@ I'm Fyodor. I've been using 🐧GNU/Linux since 2012, but now, 10 years later, I
 \
 **PC specs**: AMD A6-6400K with integrated Radeon 8470D, 4Gb RAM, 120Gb SSD (yeah, potato computer, LOL)
 \
-I'm learning **Python** 🐍 and **C**\# 💜
 
 ### My apps
 * **[Time Switch](https://github.com/fsobolev/timeswitch)** ⏲️ — power off, reboot, suspend, send a notification or execute any command on timer.
