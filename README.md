@@ -8,7 +8,7 @@ I'm Fyodor, a hobbyist programmer from Russia.
 \
 **DE**: GNOME
 \
-**IDE**: GNOME Builder
+**IDE**: VS Code
 \
 **PC specs**: AMD A6-6400K with integrated Radeon 8470D, 4Gb RAM, 120Gb SSD (yeah, potato computer, LOL)
 \
